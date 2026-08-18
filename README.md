@@ -1,6 +1,6 @@
 # Selamlar, Ben Faruk Ali! ✌️
 
-Antalya'da yaşıyorum. Bilişim lisesi çıkışlıyım ve bilgisayarlarla haşır neşir olmak benim için her zaman birincil hobi oldu. 9 aylık staj sürecimde sahada bayağı tecrübe kazandım; ağ kablolarıyla uğraşmaktan donanım sorunlarını çözmeye kadar işin mutfağını yakından gördüm. Şimdi bir yandan okumaya devam ederken bir yandan da web tasarımıyla kafayı bozmuş durumdayım.
+Antalya'da yaşıyorum. Bilişim lisesi çıkışlıyım ve bilgisayarlarla haşır neşir olmak benim için her zaman birincil hobi oldu. 9 aylık staj sürecimde sahada bayağı tecrübe kazandım; ağ kablolarıyla uğraşmaktan donanım sorunlarını çözmeye kadar işin mutfağını yakından gördüm. Şimdi bir yandan okumaya devam ederken bir yandan da web tasarımıyla uğraşıyorum
 
 Genelde HTML ve CSS kullanarak kafama esen konsept siteler tasarlıyorum. 
 
@@ -12,7 +12,7 @@ Genelde HTML ve CSS kullanarak kafama esen konsept siteler tasarlıyorum.
 
 ### 🚀 Projelerim
 
-Lokalde geliştirdiğim ve üzerinde çalıştığım bazı konsept arayüz tasarımlarım:
+Localde geliştirdiğim ve üzerinde çalıştığım bazı konsept arayüz tasarımlarım:
 
 #### 🏎️ Ferrari Konsept & E-Ticaret Sitesi
 
